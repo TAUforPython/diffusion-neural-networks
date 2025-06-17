@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+#Code highly based on https://github.com/LuChengTHU/dpm-solver/blob/main/dpm_solver_pytorch.py
 import torch
 import torch.nn.functional as F
 import math
