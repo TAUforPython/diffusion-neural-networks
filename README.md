@@ -1,6 +1,9 @@
 # Diffusion-Probabilistic-Models-Solver
 
 Implementation and analysis of the paper "DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps"
+Useful links:
+* https://github.com/thu-ml/DPM-Solver-v3
+* https://github.com/LuChengTHU/dpm-solver
 
 ![DPM Solver](diffusion_dpmsolv.gif)
 
